@@ -23,8 +23,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TFW_UPDATES")
-                await self.one.join_chat("TFW_COMMUNITY")
+                await self.one.join_chat("rockhushh")
+                await self.one.join_chat("rockhushh")
             except:
                 pass
             assistants.append(1)
