@@ -2,7 +2,7 @@ import random
 import re
 import string
 
-import lyricsgenius as lg
+import lyrics as lg
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
